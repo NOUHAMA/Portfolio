@@ -1,4 +1,4 @@
-# Nouha's Portfolio
+
 
 In this portfolio, I share my journey in data analysis and programming. Here, you’ll find projects that showcase how I work with various datasets, automate tasks, and uncover insights using tools like Python, Power BI, and SQL.
 
