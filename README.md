@@ -19,7 +19,7 @@ In this project, I showcase how to clean and format data using Python's **pandas
 ### 5. SQL Data Cleaning and Formatting
 This project involved cleaning and formatting a dataset by standardizing data types and replacing null values, ensuring data integrity for subsequent analysis.
 
-### 6. KPI Analysis
+### 6. SQL KPI Analysis 
 In this project, I calculated key performance indicators (KPIs) from a cleaned dataset, providing valuable insights for performance evaluation and data-driven decision-making.
 
 ### 7. Power BI dashboard IMDB rating
