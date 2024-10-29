@@ -17,9 +17,9 @@ In this project, I use the **yfinance** library to fetch and analyze Tesla's sto
 In this project, I showcase how to clean and format data using Python's **pandas** library. The notebook addresses common issues  incorrect data types, null values , text inconsistencies, and duplicates. 
 
 ### 5. Power BI dashboard IMDB rating
-Dashboard 1: Ratings and Genre insights for understanding popularity and rating trends by genre.
-Dashboard 2: Financial insights into gross revenue, its trends, and correlations with ratings.
-Dashboard 3: People-focused insights, showing top contributors (directors and actors) and offering detailed movie information.
+- Dashboard 1: Ratings and Genre insights for understanding popularity and rating trends by genre.
+- Dashboard 2: Financial insights into gross revenue, its trends, and correlations with ratings.
+- Dashboard 3: People-focused insights, showing top contributors (directors and actors) and offering detailed movie information.
 
 ## Skills & Technologies
 
