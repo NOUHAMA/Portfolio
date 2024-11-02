@@ -26,7 +26,7 @@ In this project, I calculated key performance indicators (KPIs) from a cleaned d
 - Dashboard 1: Ratings and Genre insights for understanding popularity and rating trends by genre.
 - Dashboard 2: Financial insights into gross revenue, its trends, and correlations with ratings.
 - Dashboard 3: People-focused insights, showing top contributors (directors and actors) and offering detailed movie information.
-- 
+
 ### 8. visualize  with Python (Matplotlib)
 This project analyzes a dataset of car purchases, referred to as the cars dataset, using Python's Matplotlib library to create insightful visualizations
 
