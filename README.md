@@ -26,8 +26,15 @@ In this project, I calculated key performance indicators (KPIs) from a cleaned d
 - Dashboard 1: Ratings and Genre insights for understanding popularity and rating trends by genre.
 - Dashboard 2: Financial insights into gross revenue, its trends, and correlations with ratings.
 - Dashboard 3: People-focused insights, showing top contributors (directors and actors) and offering detailed movie information.
+### 8. Power BI Dashboard: Interactive Visualization of FAANG stocks 
+This dashboard provides an in-depth analysis of key financial metrics for **Amazon**, **Netflix**, **Google**,**Apple**and **Facebook** from **2019 to 2024**. It includes:
 
-### 8. Data Visualization with Python (Matplotlib)
+- **Trading Volume Trends**: Visualizations that highlight trading activity and identify high and low periods.
+- **Close and Open Variations**: Charts illustrating daily price fluctuations and overall market volatility.
+- **Closing Price vs. Moving Averages**: A comparison of closing prices with 20- and 12-day moving averages to uncover market trends.
+
+This tool is designed for tracking performance and making data-driven investment decisions.
+### 9. Data Visualization with Python (Matplotlib)
 This project analyzes a dataset of car purchases, referred to as the cars dataset, using Python's Matplotlib library to create insightful visualizations
 
 ## Skills & Technologies
