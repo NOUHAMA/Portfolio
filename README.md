@@ -36,7 +36,7 @@ This dashboard provides an in-depth analysis of key financial metrics for **Amaz
 This tool is designed for tracking performance and making data-driven investment decisions.
 ### 9. Data Visualization with Python (Matplotlib)
 This project analyzes a dataset of car purchases, referred to as the cars dataset, using Python's Matplotlib library to create insightful visualizations
-### 10. machine learning (Linear regression)
+### 10. Machine learning (Linear regression)
 In this project, I aimed to identify the linear relationship between the quality of wine and its various features. I chose to use the statsmodels library for linear regression, as it provides more detailed statistical information, allowing me to better understand the significance of my results. While statsmodels was used for the regression analysis, I utilized scikit-learn for scaling the data and splitting it into training and test sets.
 
 ## Skills & Technologies
